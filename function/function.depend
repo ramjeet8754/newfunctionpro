@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1663768921 source:d:\function\function\main.c
+	<stdio.h>
+
+1663768153 source:d:\function\function\with arg without rt.c
+	<stdio.h>
+
+1663768017 source:d:\function\function\with arg with rt.c
+	<stdio.h>
+
