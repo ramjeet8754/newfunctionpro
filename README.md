@@ -1,0 +1,2 @@
+# newfunctionpro
+arguments with function
